@@ -412,15 +412,7 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 
 ---
 
-## 📊 Statistics
 
-| Metric | Count |
-|--------|-------|
-| Categories | 12 |
-| References indexed | 190 |
-| With arXiv links | 149 |
-| With DOI links | 13 |
-| Code / report links | 4 |
 
 ---
 
