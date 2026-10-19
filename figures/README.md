@@ -7,10 +7,13 @@ Architectures, Security, and Evaluation* (Information Sciences, V9).
 | File | Figure | Topic |
 |------|--------|-------|
 | [AgenticLLM_Review_Pipeline.png](AgenticLLM_Review_Pipeline.png) | Figure 1 | Review pipeline and paper organisation |
-| [Review_Three_Axes.pdf](Review_Three_Axes.pdf) | Figure 2 | Three-axis review-design framework |
+| [Review_Three_Axes.png](Review_Three_Axes.png) ([PDF](Review_Three_Axes.pdf)) | Figure 2 | Three-axis review-design framework |
 | [Review_screening.png](Review_screening.png) | Figure 3 | PRISMA-style screening and selection flow |
-| [Figure_02.pdf](Figure_02.pdf) | Figure 4 | Classification into four macro-themes and twelve categories |
-| [Figure_03.pdf](Figure_03.pdf) | Figure 5 | Distribution of the 212 reference entries across categories |
+| [Figure_02.png](Figure_02.png) ([PDF](Figure_02.pdf)) | Figure 4 | Classification into four macro-themes and twelve categories |
+| [Figure_03.png](Figure_03.png) ([PDF](Figure_03.pdf)) | Figure 5 | Distribution of the 212 reference entries across categories |
+
+Figures 2, 4, and 5 exist as vector PDFs; 300 DPI PNG renditions are provided
+alongside them for inline preview. Figures 1 and 3 were produced as PNG.
 
 ---
 
@@ -29,7 +32,7 @@ Sections 8–11 cover architectures, tools, coordination, and security; the
 remaining sections address applications, evaluation, open problems, and future
 research.
 
-## Figure 2 — Three-axis framework (`Review_Three_Axes.pdf`)
+## Figure 2 — Three-axis framework (`Review_Three_Axes.png`)
 
 **Three-axis framework for the review design (Section 2.1).** The *capability*
 axis describes what agentic systems do (reasoning, acting, interacting); the
@@ -60,7 +63,7 @@ constructed, including which counts are unavailable (reported as "not
 reported" rather than estimated). The protocol follows PRISMA reporting
 guidance and Snyder's semi-systematic approach (Section 2).
 
-## Figure 4 — Classification of the reference set (`Figure_02.pdf`)
+## Figure 4 — Classification of the reference set (`Figure_02.png`)
 
 **Classification of the original 212-entry reference set (209 survey
 references and 3 review-methodology sources) into four macro-themes and twelve
@@ -77,14 +80,14 @@ PEFT, (3) RL, reward & alignment, (4) Test-time scaling & reasoning,
 Architectures, planning & memory, (8) Multi-agent systems, (9) Safety &
 security, (10) Evaluation & benchmarks, (11) Applications, and (12)
 Infrastructure & classics. Category numbers correspond to the classified
-bibliography in the companion repository. Cross-listed works are counted once
+bibliography classified in this repository. Cross-listed works are counted once
 by primary contribution.
 
 *What to look for:* Evaluation & benchmarks is the largest category (40
 entries), followed by Infrastructure & classics (26) and the tied pair of
 Foundation & reasoning models and Architectures, planning & memory (21 each).
 
-## Figure 5 — Distribution across categories (`Figure_03.pdf`)
+## Figure 5 — Distribution across categories (`Figure_03.png`)
 
 **Distribution of the original 212 reference entries across the twelve
 thematic categories, including the 3 review-methodology references.** The
