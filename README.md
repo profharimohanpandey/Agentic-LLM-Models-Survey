@@ -3,7 +3,7 @@
 # Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation — A Comprehensive Survey
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![References: 190](https://img.shields.io/badge/References-190-informational.svg)](#-statistics)
+[![References: 190](https://img.shields.io/badge/References-212-informational.svg)](#-statistics)
 [![Maintained: yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](#-contributing)
 
