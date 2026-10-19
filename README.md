@@ -424,7 +424,7 @@ If you find this resource useful, please cite the survey:
   title   = {Agentic Large Language Models: Foundations, Post-Training,
              Architectures, Security, and Evaluation --- A Comprehensive Survey},
   author  = {Pandey, Hari Mohan},
-  journal = {Information Sciences},
+  journal = {xxx},
   year    = {2026}
 }
 ```
