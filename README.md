@@ -64,8 +64,6 @@ Some figures from the survey paper are presented, with descriptions for readers.
   <img src="figures/Review_Three_Axes.png" alt="Three-axis review framework: capability, lifecycle, and assurance axes around the review design" width="72%" />
 </p>
 
-**Three-axis framework for the review design (Section 2.1).** [Source PDF](figures/Review_Three_Axes.pdf)
-
 The *capability* axis describes what agentic systems do (reasoning, acting, interacting); the *lifecycle* axis locates model adaptation and inference-time control (pretraining, post-training, inference-time control); and the *assurance* axis organises evaluation, safety and security, and governance. Each source is examined jointly across these conceptual dimensions.
 
 *What to look for:* the three axes form the analytical grid used throughout the review and help distinguish an architectural change from changes in model adaptation or compute. The framework is paired with the eight review questions (RQ1–RQ8) in Table 5 of the paper.
