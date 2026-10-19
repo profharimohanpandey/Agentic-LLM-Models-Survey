@@ -107,8 +107,6 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 
 *What to look for:* the bar chart makes the imbalance between categories immediately visible — evidence synthesis and evaluation dominate the field, while post-training-specific work (8 entries) is comparatively sparse.
 
-> **File-name note.** `Figure_02.pdf` and `Figure_03.pdf` (and their PNG renditions) are legacy file names; they correspond to **Figures 4 and 5** of the current paper version.
-
 ---
 
 ## 📌 Contents
