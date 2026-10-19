@@ -25,7 +25,6 @@ The full search and screening protocol is documented in **[METHODOLOGY.md](METHO
 
 ## 🎉 News
 
-- **[October 2026]** Added 300 DPI PNG renditions of every PDF figure for inline preview in the README.
 - **[October 2026]** Repository launched with the paper figures, reader descriptions, and the twelve-category classified bibliography.
 
 📄 **Survey:** *Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation — A Comprehensive Survey* (2026).
@@ -39,7 +38,7 @@ Feel free to ⭐ star and fork this repository to keep up with new references an
 
 ## 📈 Figures
 
-Figures from the survey paper, with descriptions for readers. Figure numbers follow the paper *Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation* (Information Sciences, V9). Every figure is provided as a 300 DPI PNG for quick viewing; the original PDF files are kept alongside for the vector versions. Extended notes live in [`figures/README.md`](figures/README.md).
+Some figures from the survey paper are presented, with descriptions for readers. Figure numbers follow the paper *Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation*.
 
 | File | Figure | Topic |
 |------|--------|-------|
