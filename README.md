@@ -84,7 +84,7 @@ The *capability* axis describes what agentic systems do (reasoning, acting, inte
   <img src="figures/Figure_02.png" alt="Classification of the 212-entry reference set into four macro-themes and twelve thematic categories" width="90%" />
 </p>
 
-**Classification of the original 212-entry reference set (209 survey references and 3 review-methodology sources) into four macro-themes and twelve thematic categories.** [Source PDF](figures/Figure_02.pdf)
+**Classification of the original 212-entry reference set (209 survey references and 3 review-methodology sources) into four macro-themes and twelve thematic categories.**
 
 - **Foundations & adaptation** — 62 references
 - **Reasoning, planning & memory** — 35 references
