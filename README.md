@@ -51,7 +51,7 @@ Figures from the survey paper, with descriptions for readers. Figure numbers fol
 | [`Figure_02.png`](figures/Figure_02.png) | Figure 4 | Classification into four macro-themes and twelve categories |
 | [`Figure_03.png`](figures/Figure_03.png) | Figure 5 | Distribution of the 212 reference entries across categories |
 
-### Figure 1 — Review pipeline
+### Review pipeline
 
 <p align="center">
   <img src="figures/AgenticLLM_Review_Pipeline.png" alt="Review pipeline for the agentic LLM survey: 16 sections grouped into eight stages" width="90%" />
@@ -61,7 +61,7 @@ Figures from the survey paper, with descriptions for readers. Figure numbers fol
 
 *What to look for:* the figure doubles as a map of the paper. Sections 2–4 establish the review protocol, background, and formal models; Sections 5–7 cover post-training, reasoning, and comparisons across AI approaches; Sections 8–11 cover architectures, tools, coordination, and security; the remaining sections address applications, evaluation, open problems, and future research.
 
-### Figure 2 — Three-axis framework
+### Three-axis framework
 
 <p align="center">
   <img src="figures/Review_Three_Axes.png" alt="Three-axis review framework: capability, lifecycle, and assurance axes around the review design" width="72%" />
@@ -73,7 +73,7 @@ The *capability* axis describes what agentic systems do (reasoning, acting, inte
 
 *What to look for:* the three axes form the analytical grid used throughout the review and help distinguish an architectural change from changes in model adaptation or compute. The framework is paired with the eight review questions (RQ1–RQ8) in Table 5 of the paper.
 
-### Figure 3 — Screening and selection flow
+### Screening and selection flow
 
 <p align="center">
   <img src="figures/Review_screening.png" alt="Review screening and selection flow: identification, deduplication, screening, eligibility, and final reference set" width="70%" />
@@ -83,7 +83,7 @@ The *capability* axis describes what agentic systems do (reasoning, acting, inte
 
 *What to look for:* a PRISMA-style account of how the bibliography was constructed, including which counts are unavailable (reported as "not reported" rather than estimated). The protocol follows PRISMA reporting guidance and Snyder's semi-systematic approach (Section 2); the full protocol is documented in [METHODOLOGY.md](METHODOLOGY.md).
 
-### Figure 4 — Classification of the reference set
+### Classification of the reference set
 
 <p align="center">
   <img src="figures/Figure_02.png" alt="Classification of the 212-entry reference set into four macro-themes and twelve thematic categories" width="90%" />
@@ -100,7 +100,7 @@ The twelve categories are: (1) Surveys & foundations, (2) Post-training & PEFT, 
 
 *What to look for:* Evaluation & benchmarks is the largest category (40 entries), followed by Infrastructure & classics (26) and the tied pair of Foundation & reasoning models and Architectures, planning & memory (21 each).
 
-### Figure 5 — Distribution across categories
+### Distribution across categories
 
 <p align="center">
   <img src="figures/Figure_03.png" alt="Bar chart of the distribution of 212 reference entries across the twelve thematic categories" width="85%" />
