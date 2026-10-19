@@ -19,7 +19,7 @@
 
 ---
 
-Welcome to the **Agentic-LLM-Survey** repository! It publishes the **figures** of the survey *Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation — A Comprehensive Survey* with reader-oriented descriptions, and classifies **every citation used in the paper** into twelve thematic categories with a direct link (arXiv, DOI, publisher, or code repository).
+Welcome to the **Agentic-LLM-Survey** repository! It publishes the survey *Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation — A Comprehensive Survey* with reader-oriented descriptions, and classifies **every citation used in the paper** into twelve thematic categories with a direct link (arXiv, DOI, publisher, or code repository).
 
 The full search and screening protocol is documented in **[METHODOLOGY.md](METHODOLOGY.md)**, so the index can be reproduced or audited end to end.
 
