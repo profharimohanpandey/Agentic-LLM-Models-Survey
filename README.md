@@ -101,7 +101,7 @@ The twelve categories are: (1) Surveys & foundations, (2) Post-training & PEFT, 
   <img src="figures/Figure_03.png" alt="Bar chart of the distribution of 212 reference entries across the twelve thematic categories" width="85%" />
 </p>
 
-**Distribution of the original 212 reference entries across the twelve thematic categories, including the 3 review-methodology references.** [Source PDF](figures/Figure_03.pdf)
+**Distribution of the original 212 reference entries across the twelve thematic categories, including the 3 review-methodology references.** 
 
 Each entry is assigned to exactly one category by its primary contribution. Counts per category: Surveys & foundations 14; Post-training & PEFT 8; RL, reward & alignment 19; Test-time scaling & reasoning 14; Foundation & reasoning models 21; Tool use & retrieval 10; Architectures, planning & memory 21; Multi-agent systems 17; Safety & security 11; Evaluation & benchmarks 40; Applications 11; Infrastructure & classics 26.
 
