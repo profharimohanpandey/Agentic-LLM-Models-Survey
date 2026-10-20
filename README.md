@@ -3,7 +3,7 @@
 # Agentic Large Language Models: Foundations, Post-Training, Architectures, Security, and Evaluation — A Comprehensive Survey
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![References: 190](https://img.shields.io/badge/References-212-informational.svg)](#-statistics)
+[![References: 215](https://img.shields.io/badge/References-215-informational.svg)](#-statistics)
 [![Maintained: yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](#-contributing)
 
@@ -15,7 +15,7 @@
   <img src="figures/Figure_03.png" alt="Distribution of references across the twelve thematic categories" width="78%" />
 </p>
 
-*Distribution of the 212 reference entries across the twelve thematic categories. The concentration in evaluation and benchmarking, infrastructure, and architecture reflects the field's shift from capability demonstrations towards measurement, systems, and cost.*
+*Distribution of the 215 reference entries across the twelve thematic categories. The concentration in evaluation and benchmarking, infrastructure, and architecture reflects the field's shift from capability demonstrations towards measurement, systems, and cost.*
 
 ---
 
@@ -46,7 +46,7 @@ Some figures from the survey paper are presented, with descriptions for readers.
 | [`Review_Three_Axes.png`](figures/Review_Three_Axes.png) | Figure 2 | Three-axis review-design framework |
 | [`Review_screening.png`](figures/Review_screening.png) | Figure 3 | PRISMA-style screening and selection flow |
 | [`Figure_02.png`](figures/Figure_02.png) | Figure 4 | Classification into four macro-themes and twelve categories |
-| [`Figure_03.png`](figures/Figure_03.png) | Figure 5 | Distribution of the 212 reference entries across categories |
+| [`Figure_03.png`](figures/Figure_03.png) | Figure 5 | Distribution of the 215 reference entries across categories |
 
 ### Review pipeline
 
@@ -74,36 +74,36 @@ The *capability* axis describes what agentic systems do (reasoning, acting, inte
   <img src="figures/Review_screening.png" alt="Review screening and selection flow: identification, deduplication, screening, eligibility, and final reference set" width="70%" />
 </p>
 
-**Review screening and selection flow.** Identification n = 1,183 records retrieved from databases and preprint servers; deduplication n = 792 unique records after merging versions; title/abstract screening (IC1–IC5 and EC1–EC5) n = 361; full-text eligibility with backward and forward citation searches (snowballing) n = 250. Separate duplicate-removal, exclusion, and snowball-addition counts are not reported. The final original reference set contains n = 212 entries: 209 survey references and 3 review-methodology references, distributed across 12 categories (the classification is shown in Figure 4).
+**Review screening and selection flow.** Identification n = 1,183 records retrieved from databases and preprint servers; deduplication n = 792 unique records after merging versions; title/abstract screening (IC1–IC5 and EC1–EC5) n = 361; full-text eligibility with backward and forward citation searches (snowballing) n = 250. Removal and exclusion counts are calculated from the reported stage totals: 391 duplicates removed (1,183 − 792), 431 screening exclusions (792 − 361), a net reduction of 111 before eligibility (361 − 250), and 38 eligibility exclusions (250 − 212). Snowballing additions and reason-specific exclusion counts are not separately reported. The final reference set contains n = 215 entries: 212 survey references and 3 review-methodology references, distributed across 12 categories (the classification is shown in Figure 4).
 
-*What to look for:* a PRISMA-style account of how the bibliography was constructed, including which counts are unavailable (reported as "not reported" rather than estimated). The protocol follows PRISMA reporting guidance and Snyder's semi-systematic approach (Section 2); the full protocol is documented in [METHODOLOGY.md](METHODOLOGY.md).
+*What to look for:* a PRISMA-style account of how the bibliography was constructed, showing which counts are derived from the reported stage totals and which remain unavailable (snowballing additions and reason-specific exclusions) rather than being estimated. The protocol follows PRISMA reporting guidance and Snyder's semi-systematic approach (Section 2); the full protocol is documented in [METHODOLOGY.md](METHODOLOGY.md).
 
 ### Classification of the reference set
 
 <p align="center">
-  <img src="figures/Figure_02.png" alt="Classification of the 212-entry reference set into four macro-themes and twelve thematic categories" width="90%" />
+  <img src="figures/Figure_02.png" alt="Classification of the 215-entry reference set into four macro-themes and twelve thematic categories" width="90%" />
 </p>
 
-**Classification of the original 212-entry reference set (209 survey references and 3 review-methodology sources) into four macro-themes and twelve thematic categories.**
+**Classification of the 215-entry reference set (212 survey references and 3 review-methodology sources) into four macro-themes and twelve thematic categories.**
 
 - **Foundations & adaptation** — 62 references
-- **Reasoning, planning & memory** — 35 references
-- **Grounding & interaction** — 27 references
-- **Assurance & deployment** — 88 references
+- **Reasoning, planning & memory** — 36 references
+- **Grounding & interaction** — 28 references
+- **Assurance & deployment** — 89 references
 
 The twelve categories are: (1) Surveys & foundations, (2) Post-training & PEFT, (3) RL, reward & alignment, (4) Test-time scaling & reasoning, (5) Foundation & reasoning models, (6) Tool use & retrieval, (7) Architectures, planning & memory, (8) Multi-agent systems, (9) Safety & security, (10) Evaluation & benchmarks, (11) Applications, and (12) Infrastructure & classics. Category numbers correspond to the classified bibliography below. Cross-listed works are counted once by primary contribution.
 
-*What to look for:* Evaluation & benchmarks is the largest category (40 entries), followed by Infrastructure & classics (26) and the tied pair of Foundation & reasoning models and Architectures, planning & memory (21 each).
+*What to look for:* Evaluation & benchmarks is the largest category (41 entries), followed by Infrastructure & classics (26) and Architectures, planning & memory (22), with Foundation & reasoning models next (21).
 
 ### Distribution across categories
 
 <p align="center">
-  <img src="figures/Figure_03.png" alt="Bar chart of the distribution of 212 reference entries across the twelve thematic categories" width="85%" />
+  <img src="figures/Figure_03.png" alt="Bar chart of the distribution of 215 reference entries across the twelve thematic categories" width="85%" />
 </p>
 
-**Distribution of the original 212 reference entries across the twelve thematic categories, including the 3 review-methodology references.** 
+**Distribution of the 215 reference entries across the twelve thematic categories, including the 3 review-methodology references.** 
 
-Each entry is assigned to exactly one category by its primary contribution. Counts per category: Surveys & foundations 14; Post-training & PEFT 8; RL, reward & alignment 19; Test-time scaling & reasoning 14; Foundation & reasoning models 21; Tool use & retrieval 10; Architectures, planning & memory 21; Multi-agent systems 17; Safety & security 11; Evaluation & benchmarks 40; Applications 11; Infrastructure & classics 26.
+Each entry is assigned to exactly one category by its primary contribution. Counts per category: Surveys & foundations 14; Post-training & PEFT 8; RL, reward & alignment 19; Test-time scaling & reasoning 14; Foundation & reasoning models 21; Tool use & retrieval 10; Architectures, planning & memory 22; Multi-agent systems 18; Safety & security 11; Evaluation & benchmarks 41; Applications 11; Infrastructure & classics 26.
 
 *What to look for:* the bar chart makes the imbalance between categories immediately visible — evidence synthesis and evaluation dominate the field, while post-training-specific work (8 entries) is comparatively sparse.
 
@@ -272,6 +272,7 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 - WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [[Paper]](https://arxiv.org/abs/2207.01206) ![](https://img.shields.io/badge/arXiv-2022-red)
 - Generative Agents: Interactive Simulacra of Human Behavior [[Paper]](https://arxiv.org/abs/2304.03442) ![](https://img.shields.io/badge/arXiv-2023-red)
 - Generative Agent Simulations of 1,000 People [[Paper]](https://arxiv.org/abs/2411.10109) ![](https://img.shields.io/badge/arXiv-2024-red)
+- Parameter-Efficient Action Planning with Large Language Models for Vision-and-Language Navigation [[Paper]](https://doi.org/10.1016/j.patcog.2025.112462) ![](https://img.shields.io/badge/Pattern_Recognition-2026-blue)
 
 ---
 
@@ -295,6 +296,7 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 - RecAgent: A Novel Simulation Paradigm for Recommender Systems [[Paper]](https://arxiv.org/abs/2306.02552) ![](https://img.shields.io/badge/arXiv-2023-red)
 - S3: Social-Network Simulation System with LLM-Empowered Agents [[Paper]](https://arxiv.org/abs/2307.14984) ![](https://img.shields.io/badge/arXiv-2023-red)
 - Advancing Agentic AI through Communication Protocols ![](https://img.shields.io/badge/IJSRST-2025-blue)
+- Beyond a Single Perspective: A Multi-Agent Debate Framework for Affective Computing [[Paper]](https://doi.org/10.1016/j.patcog.2026.113445) ![](https://img.shields.io/badge/Pattern_Recognition-2026-blue)
 
 ---
 
@@ -353,6 +355,7 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 - MCPEval: Automatic MCP-Based Deep Evaluation for AI Agent Models ![](https://img.shields.io/badge/EMNLP-2025-blue)
 - MMMU: A Massive Multi-Discipline Multimodal Understanding and Reasoning Benchmark [[Paper]](https://arxiv.org/abs/2311.16502) ![](https://img.shields.io/badge/arXiv-2024-red)
 - LlamaV-o1: Rethinking Step-by-Step Visual Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2501.06186) ![](https://img.shields.io/badge/arXiv-2025-red)
+- ATCMD-Bench: Agentic Traditional Chinese Medicine Diagnosis Benchmark for Large Language Models via Multi-Agent Simulation [[Paper]](https://doi.org/10.1016/j.patcog.2026.113679) ![](https://img.shields.io/badge/Pattern_Recognition-2026-blue)
 
 ---
 
