@@ -255,7 +255,7 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 - The Auton Agentic AI Framework [[Paper]](https://arxiv.org/abs/2602.23720) ![](https://img.shields.io/badge/arXiv-2026-red)
 - From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture [[Paper]](https://arxiv.org/abs/2602.10479) ![](https://img.shields.io/badge/arXiv-2026-red)
 - HALO: Hierarchical Autonomous Logic-Oriented Orchestration for Multi-Agent LLM Systems [[Paper]](https://arxiv.org/abs/2505.13516) ![](https://img.shields.io/badge/arXiv-2025-red)
-- Hierarchical Agentic AI Framework for Autonomous Task Planning ![](https://img.shields.io/badge/IJIREM-2026-blue)
+- [Hierarchical Agentic AI Framework for Autonomous Task Planning](https://journal-ijirem.org/index.php/ijirem/article/view/142)![](https://img.shields.io/badge/IJIREM-2026-blue)
 - Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents [[Paper]](https://arxiv.org/abs/2505.09970) ![](https://img.shields.io/badge/arXiv-2025-red)
 - Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning ![](https://img.shields.io/badge/ARSO-2026-blue)
 - Think, Act, Learn: A Framework for Autonomous Robotic Agents Using Closed-Loop LLMs [[Paper]](https://arxiv.org/abs/2507.19854) ![](https://img.shields.io/badge/arXiv-2025-red)
