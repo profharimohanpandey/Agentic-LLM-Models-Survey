@@ -144,7 +144,7 @@ Each entry is assigned to exactly one category by its primary contribution. Coun
 - Responsible Agentic Reasoning and AI Agents: A Critical Survey [[Paper]](https://doi.org/10.3390/robotics14100180) ![](https://img.shields.io/badge/Robotics_(MDPI)-2025-blue)
 - A Survey of Large Language Models [[Paper]](https://arxiv.org/abs/2303.18223) ![](https://img.shields.io/badge/arXiv-2023-red)
 - Large Language Models: A Survey [[Paper]](https://arxiv.org/abs/2402.06196) ![](https://img.shields.io/badge/arXiv-2024-red)
-- Large Language Models and Agentic AI: How Modern AI Systems Are Evolving into Autonomous Agents ![](https://itjournaliitmjp.com/2026/05/30/large-language-models-and-agentic-ai-how-modern-ai-systems-are-evolving-into-autonomous-agents/)
+- [Large Language Models and Agentic AI: How Modern AI Systems Are Evolving into Autonomous Agents](https://itjournaliitmjp.com/2026/05/30/large-language-models-and-agentic-ai-how-modern-ai-systems-are-evolving-into-autonomous-agents/)
 - Multi-Agent Collaboration Mechanisms: A Survey of LLMs [[Paper]](https://arxiv.org/abs/2501.06322) ![](https://img.shields.io/badge/arXiv-2025-red)
 - Extensive Survey on Multi-Agent LLM Systems ![](https://img.shields.io/badge/arXiv-2024-red)
 - Intelligent Agents ![](https://img.shields.io/badge/Multiagent_Systems_(MIT_Press)-1999-blue)
